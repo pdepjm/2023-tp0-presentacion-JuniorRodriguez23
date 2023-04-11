@@ -1,5 +1,3 @@
-# 2023-tp0-presentacion-JuniorRodriguez23
-2023-tp0-presentacion-JuniorRodriguez23 created by GitHub Classroom
 # Mi Presentacion
 ## Mis Datos Personales:
 - Soy Junior Rodriguez estoy recursando la materia, xq la tuve que abandonar el año pasado, por algunos motivos personales.
